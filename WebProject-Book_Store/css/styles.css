@@ -1,0 +1,14 @@
+h1{
+  font-family:"Montserrat-black";
+}
+img{
+  height: 180px;
+  width: 240px;
+}
+.row{
+  /* background-color:#FCF3CF ; */
+}
+.card{
+  margin-top: 50px;
+  height: 30rem;
+}
